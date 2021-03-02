@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AyahZaareer/reading-note/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Git
+## What is Git?
+### Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
+#### Download Git:
+1. Install as a package
+2. Install via another installer
+3. Download and compile the source code
+#### We use git commands in terminal window to chick our GitHub file and we can write many command in this window when inside GitHub file like:
 
-### Markdown
+##### To determine the state of files, utilize the git status command:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+$ git status
 
-```markdown
-Syntax highlighted code block
+##### Track one file only by using the following format:
 
-# Header 1
-## Header 2
-### Header 3
+git add filename
 
-- Bulleted
-- List
+##### After staging one or multiple files, we should commit the changes and record what we did within the commit message:
 
-1. Numbered
-2. List
+$ git commit -m “made change x,y,z”
 
-**Bold** and _Italic_ and `Code` text
+*This step has committed changes for the file or files (you can have one commit message for multiple files, if applicable) to the HEAD
 
-[Link](url) and ![Image](src)
-```
+##### Next, we would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general overview of pushing changes to remotes.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### Example:(your file's name is master)
 
-### Jekyll Themes
+$ git push origin master
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AyahZaareer/reading-note/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This command pushes changes from the local “master” branch to the remote repository named “origin”.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
