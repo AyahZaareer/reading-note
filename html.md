@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/79833733/109846760-2b933a00-7c57-11eb-9f83-a7da2ee17344.png)
 
 # Headers & Footers
-## The header and footerelements can be used for:
+## The header and footer elements can be used for:
 ● The main header or footerthat appears at the top orbottom of every page on thesite.
 
 ● A header or footer for anindividual (article) or(section) within the page
@@ -48,4 +48,10 @@
 ## Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements. Examples of inline elements are (a), (b), (em), and (img).
 ![image](https://user-images.githubusercontent.com/79833733/109856388-1b348c80-7c62-11eb-87f0-6c2d67e456b4.png)
 
-
+| section 1 |  What is HTML?                                 |
+|-----------|------------------------------------------------|
+|section 2  |  Traditional HTML Layouts and New Html5 Layout |
+|-----------|------------------------------------------------|
+| section 3 | Semantic tag elemant                           | 
+|-----------|------------------------------------------------|
+| section 4 | Comments in HTML                               |
