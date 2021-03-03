@@ -47,11 +47,9 @@
 # Inline Elements
 ## Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements. Examples of inline elements are (a), (b), (em), and (img).
 ![image](https://user-images.githubusercontent.com/79833733/109856388-1b348c80-7c62-11eb-87f0-6c2d67e456b4.png)
-
-| section 1 |  What is HTML?                                 |
-|-----------|------------------------------------------------|
-|section 2  |  Traditional HTML Layouts and New Html5 Layout |
-|-----------|------------------------------------------------|
-| section 3 |  Semantic tag elemant                          | 
-|-----------|------------------------------------------------|
-| section 4 |  Comments in HTML                              |
+| secton nmber | Description                                    |
+|--------------|------------------------------------------------|
+| section 1    |  What is HTML?                                 |
+| section 2    |  Traditional HTML Layouts and New Html5 Layout |
+| section 3    |  Semantic tag elemant                          | 
+| section 4    |  Comments in HTML                              |
