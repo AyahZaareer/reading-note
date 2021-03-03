@@ -52,6 +52,6 @@
 |-----------|------------------------------------------------|
 |section 2  |  Traditional HTML Layouts and New Html5 Layout |
 |-----------|------------------------------------------------|
-| section 3 | Semantic tag elemant                           | 
+| section 3 |  Semantic tag elemant                          | 
 |-----------|------------------------------------------------|
-| section 4 | Comments in HTML                               |
+| section 4 |  Comments in HTML                              |
