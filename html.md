@@ -41,5 +41,11 @@
 ## Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
 ![image](https://user-images.githubusercontent.com/79833733/109855450-f1c73100-7c60-11eb-99c0-28a91fc78e31.png)
 
+# Block Elements
+## Some elements will always appear to start on a new line in the browser window. These are known as block level elements. Examples of block elements are (h1), (p), (ul), and (li)
+![image](https://user-images.githubusercontent.com/79833733/109855929-8fbafb80-7c61-11eb-9b78-5687f3790cda.png)
+# Inline Elements
+## Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements. Examples of inline elements are (a), (b), (em), and (img).
+![image](https://user-images.githubusercontent.com/79833733/109856388-1b348c80-7c62-11eb-87f0-6c2d67e456b4.png)
 
 
