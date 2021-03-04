@@ -23,7 +23,7 @@
 5. fails to reach full potential
 
 ![image](https://storage.googleapis.com/proudcity/elgl/uploads/2020/08/growth-mindset-brain.png)
-| read more   | [clik her](https://pages.github.com/).                 |
+| read more   | [clik her](https://ayahzaareer.github.io/Growth-Mindset/).                 |
 |-------------|---------------------------|
 | section 1   | What is a growth mindset? |
 | section 2   | Growth mindset            |
