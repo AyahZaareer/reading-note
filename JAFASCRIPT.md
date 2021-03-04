@@ -33,4 +33,12 @@
  ## EXPRESSIONS
  ### Expressions that just assing a value to a variable 
  ### in order  for a variable to be useful, it needs to be given a value. As you have seen, t his is done using the assignment operator (the equals sign). var color= 'beige'; The value of co 1 or is now beige.
- ###EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE You can perform operations on any number of individual values (see next page) to determine a single value. For example: var area = 3 * 2; The value of area is now 6. 
+ ### EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE You can perform operations on any number of individual values (see next page) to determine a single value. For example: var area = 3 * 2; The value of area is now 6. 
+ ## A BASIC FUNCTION
+ ![image](https://user-images.githubusercontent.com/79833733/109934134-d5fd7280-7cd4-11eb-937e-75cf841cbc29.png)
+ ### GETTING MULTIPLE VALUES OUT OF A FUNCTION  
+ ![image](https://user-images.githubusercontent.com/79833733/109934816-984d1980-7cd5-11eb-9bea-e64be3147ecf.png)
+
+### FUNCTION DECLARATION 
+![image](https://user-images.githubusercontent.com/79833733/109934569-58863200-7cd5-11eb-9821-1f26452c70a7.png)
+
