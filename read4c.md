@@ -10,4 +10,17 @@
 ## You may see JavaScript in the HTML between opening < script> and closing < /script> tags (but it is better to put script s in their own files).
 
 
-## A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon. 
+## A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
+
+
+## You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code. 
+![image](https://user-images.githubusercontent.com/79833733/110032088-6cb34900-7d40-11eb-8ef7-a7b1a6a7b649.png)
+
+
+# USING A VARIABLE TO STORE A NUMBER
+![image](https://user-images.githubusercontent.com/79833733/110032395-c3208780-7d40-11eb-8d3a-0bfe3ee56fe7.png)
+
+
+# USING A VARIABLE TO STORE A STRING
+![image](https://user-images.githubusercontent.com/79833733/110032600-ff53e800-7d40-11eb-83c1-f9bd10159fa3.png)
+
