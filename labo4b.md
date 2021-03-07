@@ -1,4 +1,3 @@
-
 # What makes computer a computer
 ## Central Processor Unit (CPU),Memory (RAM),Input (keyboard, mouse, etc) and Output (monitor, printer,)
 1. Input: An input is the information that we provide to the Computer.
