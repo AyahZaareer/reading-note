@@ -4,10 +4,10 @@
 
 
 
-| read more   |                                                      |
-|-------------|------------------------------------------------------| 
-|markdown     | [clik her](https://ayahzaareer.github.io/markdown/   |
-|-------------|------------------------------------------------------|
-| read6       |
+| read more   |                                                                  |
+|-------------|------------------------------------------------------------------| 
+|markdown     | [clik her](https://ayahzaareer.github.io/markdown/               |
+|-------------|---------------------------------------------------------------   |        
+| read6       | [clik her](https://ayahzaareer.github.io/reading-note/read6.md)  |
 
 .
